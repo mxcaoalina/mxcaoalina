@@ -1,6 +1,6 @@
 # Hi, I'm Mingxi Cao
 
-I'm a software engineer-in-training with a background in architecture, blending design thinking with systems-level problem solving. Currently pursuing my MS in Computer Science at Northeastern University, I'm passionate about building elegant, end-to-end solutions — from intuitive interfaces to robust infrastructure.
+I'm a software engineer-in-training with a background in architecture, blending design thinking with systems-level problem solving. Currently pursuing my MS in Computer Science, I'm passionate about building elegant, end-to-end solutions — from intuitive interfaces to robust infrastructure.
 
 ### What I Do
 - **AI-Powered Systems** — Built a multi-agent conversational restaurant recommender using Azure AI & Semantic Kernel.
